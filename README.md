@@ -15,8 +15,6 @@ jdk1.8
 maven
 
 mysql
---------------------- 
-作者：营琪 
-来源：CSDN 
-原文：https://blog.csdn.net/weixin_43126117/article/details/93512929 
-版权声明：本文为博主原创文章，转载请附上博文链接！
+
+详细请访问：https://blog.csdn.net/weixin_43126117/article/details/93512929 
+
